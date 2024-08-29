@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+.banner
+{
+    height: 100vh;
+    background:linear-gradient(rgba(48, 43, 43, 0.285),rgba(37, 28, 28, 0.304)),url(https://nepalwanders.com/wp-content/uploads/2023/08/4-1.jpg);
+    background-size: cover;
+}
+.navbar
+{
+    color: white;
+}
+.f
+{
+    font-weight: 700;
+    font-size: 50px;
+}
+.g
+{
+    font-weight: 400;
+    font-size: 18px;
+}
+.h
+{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+}
+.i
+{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+.j
+{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+}
+.k
+{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+.image img
+{
+    height: 250px;
+    object-fit: cover;
+}
+.nav-tabs .nav-link
+{
+    background: transparent;
+    color:black;
+}
+.ban
+{
+    height: 100vh;
+    background:linear-gradient(rgba(15, 14, 14, 0.833),rgba(14, 0, 0, 0.29)),url(https://nepaltraveller.com/images/main/1544163530.sidetrackimageSwyambhu.jpg);
+    background-size: cover;
+}
+.circle
+{
+    width: 90px;
+    height: 90px;
+    background: white;
+    border-radius: 50%;
+    margin: auto;
+}
